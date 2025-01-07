@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to CitiBank accounts related PROD APIs "
+  contactDetails:
+    name: "SUBBU Doe - Developer"
+    email: "subbu@citibank.com"
+  onCallSupport:
+    - (111) 234-4321
+    - (222) 567-0987
