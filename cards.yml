@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to CitiBank Cards related QA APIs "
+  contactDetails:
+    name: "Saidanna Doe - Developer"
+    email: "saidu@citibank.com"
+  onCallSupport:
+    - (111) 234-4321
+    - (222) 567-0987
